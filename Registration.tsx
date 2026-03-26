@@ -64,7 +64,7 @@ export default function Registration({ onRegisterClick }: { onRegisterClick: () 
             onClick={onRegisterClick}
             className="block w-full py-3 bg-white/10 hover:bg-white/20 text-white text-center rounded-lg font-semibold transition-colors"
           >
-            Register for Workshop
+            Register for Workshop closed 
           </button>
         </GlassCard>
       </div>
