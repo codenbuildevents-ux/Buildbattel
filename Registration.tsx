@@ -75,7 +75,7 @@ export default function Registration({ onRegisterClick }: { onRegisterClick: () 
           <span className="text-sm font-medium">Payment Mode: PhonePe / UPI</span>
         </div>
         <p className="text-gray-400 text-sm">
-          Registration closes on 25 March 2026 • Fees are non-refundable
+          Registration closes on 28 March 2026 • Fees are non-refundable
         </p>
       </div>
     </Section>
